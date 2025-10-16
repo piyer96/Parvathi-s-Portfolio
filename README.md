@@ -4,7 +4,8 @@ Senior Professional showcasing few of interesting portfolio of projects delivere
 
 ## Task
 
-1. Review the Portfolio showcase
-     2. click on Portfolio%20showcase.pptx file
-     3. click on raw link
+1. To view the Portfolio showcase
+     2. click on Slide 1. jpg file
+     3. click on ascending number file to view all details
+        
 4. High level view of program and project's impact and vision
