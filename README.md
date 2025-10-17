@@ -5,7 +5,7 @@ Senior Professional showcasing few of interesting portfolio of projects delivere
 ## Task
 
 1. To view the Portfolio showcase </br>
-     2. click on Slide 1. jpg file </br>
+     2. click on [Slide 1. jpg fil](https://github.com/piyer96/Parvathi-s-Portfolio/blob/main/Slide1.JPG) to view portfolio showcase </br>
      3. click on ascending number file to view all details </br>
         
 4. The jpg files provide High level view of program and project's impact and vision </br> </br>
